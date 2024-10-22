@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define N 512
+#define N 12
 
 void random_ints(int *array, int size) {
     for (int i = 0; i < size; i++) {
