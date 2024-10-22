@@ -1,1 +1,1 @@
-# Impact_Lab_Computacão_Parelala
+# Impact_Lab_Computacão_Paralela
